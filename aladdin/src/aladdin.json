@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "Abu.jpg"
+    },
+    {
+      "id": 2,
+      "image": "Aladdin.png"    
+    },
+    {
+      "id": 3,
+      "image": "Carpet.jpg"
+    },
+    {
+      "id": 4,
+      "image": "Genie.png" 
+    },
+    {
+      "id": 5,
+      "image": "Iago.jpg"
+    },
+    {
+      "id": 6,
+      "image": "Jafar.png"
+    },
+    {
+      "id": 7,
+      "image": "Lamp.png"
+    },
+    {
+      "id": 8,
+      "image": "Peddler.png"
+    },
+    {
+      "id": 9,
+      "image": "Rajah.jpg"
+    },
+    {
+      "id": 10,
+      "image": "Razoul.jpg"
+    },
+    {
+      "id": 11,
+      "image": "Sultan.jpg"
+    },
+    {
+      "id": 12,
+      "image": "Jasmine.png"
+    }
+  ]
