@@ -23,6 +23,7 @@
 }
 
 .wrapper {
+  background-image: url("../src/images/aladdinbackground.jpg");
   height: 100%;
   display: flex;
   flex-flow: row wrap;
